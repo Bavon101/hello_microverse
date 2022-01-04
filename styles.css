@@ -1,13 +1,4 @@
-#header {
-	text-align: center;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	font-size: xx-large;
-	font-weight: bolder;
-	color: rgb(238, 237, 243);
-	
-}
-#body{
-	background-color: black;
-}
+
+#header {text-align: center;position: absolute;top: 50%;left: 50%;font-size: xx-large;font-weight: bolder;color: rgb(238, 237, 243);}
+
+#body{background-color: black;}
